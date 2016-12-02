@@ -1,7 +1,7 @@
 # ImageLightView
 A simple image popup viewer with pan and zoom. Like WeChat timeline. Only working in iOS.
 <p>
-![img](https://github.com/liswift/react-native-ImageLightView/raw/master/pic-1.png =250x445)
+![img](https://github.com/liswift/react-native-ImageLightView/raw/master/pic-1.png)
 ![img](https://github.com/liswift/react-native-ImageLightView/raw/master/pic-2.png =250x445)
 ![img](https://github.com/liswift/react-native-ImageLightView/raw/master/pic-3.png =250x445)
 # Usage
