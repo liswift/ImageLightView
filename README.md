@@ -5,6 +5,9 @@ A simple image popup viewer with pan and zoom. Like WeChat timeline. Only workin
 Just use ImageLightView.Image instead of Image. Use {uri:"xxx"} instead of {require("../images/7.jpg")} if it's a remote image.
 <p>
 
+![img](./pic-1.png =250x445)
+![img](./pic-2.png =250x445)
+![img](./pic-4.png =250x445)
  
 ```javascript
 
