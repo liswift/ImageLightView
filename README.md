@@ -2,7 +2,7 @@
 A simple image popup viewer with pan and zoom. Like WeChat timeline. Only working in iOS.
 <p>
 # Usage
-Just use ImagePopView.Image instead of Image.Use {uri:"xxx"} instead of {require("../images/7.jpg")} if it's a remote image.
+Just use ImagePopView.Image instead of Image. Use {uri:"xxx"} instead of {require("../images/7.jpg")} if it's a remote image.
 <p>
 
  
@@ -38,11 +38,11 @@ Just use ImagePopView.Image instead of Image.Use {uri:"xxx"} instead of {require
 ####ImageLightView.Image:
  
  * SIZE: Size of image, currently required.
- * GROUP: Those ImagePopView.Image's with the same GROUP will be shown in the popup viewer.You can set several GROUPs.
+ * GROUP: ImagePopView.Image's with the same GROUP will be shown in the popup viewer.You can set several GROUPs.
  
 ####ImageLightView:
 Add ImageLightView to your code to init popup viewer.
  
  * TintBar: navigation bar,can be modified.
- * onChangePage: called when animation end.
+ * onChangePage: called when animation ended.
  * onLongTouch: a long touch callback.
