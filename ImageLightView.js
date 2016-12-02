@@ -251,7 +251,7 @@ const ScrollTab = React.createClass({
     }
 });
 
-const ImagePopView = React.createClass({
+const ImageLightView = React.createClass({
 
     statics:{
         Image:ImageLightViewImage
@@ -691,7 +691,7 @@ const ImagePopView = React.createClass({
     }
 });
 
-module.exports = ImagePopView;
+module.exports = ImageLightView;
 
 let styles = StyleSheet.create({
     container:{
