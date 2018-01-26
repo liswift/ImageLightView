@@ -1,12 +1,10 @@
 # ImageLightView
 A simple image popup viewer with pan and zoom. Like WeChat timeline. Only working in iOS.
-<p>
 ![img](https://github.com/liswift/react-native-ImageLightView/raw/master/pic-1.png)
 ![img](https://github.com/liswift/react-native-ImageLightView/raw/master/pic-2.png)
 ![img](https://github.com/liswift/react-native-ImageLightView/raw/master/pic-3.png)
 # Usage
 Just use ImageLightView.Image instead of Image. Use {uri:"xxx"} instead of {require("../images/7.jpg")} if it's a remote image.
-<p>
  
 ```javascript
 
@@ -37,12 +35,12 @@ Just use ImageLightView.Image instead of Image. Use {uri:"xxx"} instead of {requ
 
 ```
 
-####ImageLightView.Image:
+#### ImageLightView.Image:
  
  * SIZE: Size of image, currently required.
  * GROUP: Images with the same GROUP will be shown in the popup viewer.You can set several GROUPs.
  
-####ImageLightView:
+#### ImageLightView:
 Add ImageLightView to your code to init popup viewer.
  
  * TintBar: navigation bar,can be modified.
